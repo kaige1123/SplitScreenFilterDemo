@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import <GLKit/GLKit.h>
 #import "FilterBar.h"
+//参考文档： https://www.jianshu.com/p/2121b93eef84
 
 typedef struct {
     GLKVector3 positionCoord; // (X, Y, Z)
